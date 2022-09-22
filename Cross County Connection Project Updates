@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Cross County Connection</title>
+</head>
+<body>
+<h1>The Cross County Connection</h1>
+<main>
+    <section>
+    <h2>Fiction</h2>
+    <!--Add links to fiction, poetry, journalism offshoot sites-->
+    <p>Stories</p>
+    <a href='https://freecodecamp.org' target="_blank">Click here to go to freecodecamp.org</a>
+    <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"
+         alt="A cute orange cat lying on its back"> <!--Replace with OC Photo-->
+    </section>
+        <section>
+        <h2>Series</h2>
+        <h3>Fiction</h3>
+        <ul> <!--eventually to links-->
+            <li>Aarya's Abstract</li>
+            <li>Cross County Connection</li>
+            <li>Ashiko</li> 
+            <li>The last Lancia</li>
+            <li>A scholar and a bard</li>
+        </ul>
+        <figure>
+            <h3>Poetry</h3>
+            <ol> <!--eventually to links-->
+                <li>Architectural Cage</li>
+                <li>Cross County Connection</li>
+                <li>The God</li>
+                <li>Other</li>
+
+            </ol>
+        <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg"
+            alt="A slice of lasagna on a plate"> </figure>
+        </section>
+        <section>
+            <h2>Form</h2>
+            <form action="https://freecatphotoapp.com/submit-cat-photo"></form><input>
+        </section>
+</main>
+</body>
+</html>
